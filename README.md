@@ -1,2 +1,2 @@
-# Todo-App-React.github.io
+# Todo-App-React
 TODO App made with React.js 
